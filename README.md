@@ -1,4 +1,4 @@
-# Thinking In React
+# Thinking In React is really cool
 ## The Deliverables
 - Create a piece of state that houses the array of painting data provided.
 	- When deciding which your component you should define this in, refer to your component map to determine which components will need access to this data, and place it in a "parent" component they have in common.
