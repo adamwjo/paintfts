@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function CoolNavBar() {
-  return <div></div>;
+  return <div>add stuff</div>;
 }
