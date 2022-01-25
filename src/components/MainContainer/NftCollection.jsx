@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const NftCollection = () => {
-  return <div></div>;
+  return <div>add some stuff</div>;
 };
